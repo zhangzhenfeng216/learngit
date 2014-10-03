@@ -1,7 +1,5 @@
-$ git add test.txt
-$ git commit -m "add test.txt"
-[master 94cdc44] add test.txt
- 1 file changed, 1 insertion(+)
- create mode 100644 test.txt
- 1234567890-=
- gdfsfdsfsdfsdf
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes of files.
+My stupid boss still prefers SVN.
